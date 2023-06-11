@@ -26,4 +26,4 @@ https://zhuanlan.zhihu.com/p/438707724
 
 Skia在结构上大致分成三层：画布层，渲染设备层和封装适配层。
 
-![img](https://github.com/heianzhuzai/skia_learning/blob/main/pic/v2-064e7d32fc32819cf87a7a5fa6e15776_r.jpg)
+![img](.\pic\v2-064e7d32fc32819cf87a7a5fa6e15776_r.jpg)
