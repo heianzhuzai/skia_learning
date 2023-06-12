@@ -348,3 +348,21 @@ bool LoadJPEGImage(const char* filename, SkBitmap* bitmap) {
 10. Skia Graphics Engine in Game Development: Analysis and Applications
 
 Skia-discuss Google Group: https://groups.google.com/g/skia-discuss
+
+
+1. [Skia Overview and API Reference - 知乎](https://zhuanlan.zhihu.com/p/157587058)
+   - 该文章提供了Skia的概述和API参考，介绍了Skia作为开源的2D图形库的特点和应用领域。
+2. [深入理解Flutter的图形图像绘制原理——图形库skia剖析 - 知乎](https://zhuanlan.zhihu.com/p/438707724)
+   - 该文章深入解析了Flutter的图形库Skia的原理，介绍了Skia在跨平台UI框架中的作用和基本原理。
+3. [简单理解Skia底层原理 - 知乎 - 知乎专栏](https://zhuanlan.zhihu.com/p/620057393)
+   - 该文章对Skia的底层原理进行了简单的解释，包括画布、绘制引擎、渲染管线、影子图片和路径等核心概念。
+4. [Skia图片解析流程与图片编码原理初探 - 知乎 - 知乎专栏](https://zhuanlan.zhihu.com/p/30453831)
+   - 这篇文章初步探索了Skia的图片解析流程和编码原理，重点关注Skia在图片解析方面的应用。
+5. [Skia 绘图引擎可以在前端做什么有意思的事情？ - 知乎](https://www.zhihu.com/question/398348223)
+   - 该问题回答了Skia绘图引擎在前端开发中的一些有趣应用，涉及程序化设计和多平台使用等方面。
+6. [Skia - 知乎](https://www.zhihu.com/topic/20075105/hot)
+   - 这篇文章介绍了作者使用Skia构建的一套UI库，讨论了Skia在跨平台一致渲染效果和服务器渲染方面的优势。
+7. [想深入学习Skia基础的图形原理,除了源代码,还有哪些资料有助于学习? - 知乎](https://www.zhihu.com/question/35446143)
+   - 这个问题讨论了除了Skia的源代码之外，还有哪些资料可以帮助学习Skia的图形原理，提供了一些学习资源的建议。
+
+
